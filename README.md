@@ -2,6 +2,4 @@
 
 ## this is just a test run
 
-trying to insert a pic
-
-![me](
+trying to insert a branch
