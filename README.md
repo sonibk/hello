@@ -8,8 +8,8 @@ trying to insert a pic
 # Structure of the folder
 ## sub-directories present
 * data
-        * raw
-        * derived
+       * raw
+       * derived
 * results
 * scripts
 >
